@@ -3,13 +3,15 @@
 
 This project is a Cold Email Generator for service-based companies, leveraging **Groq**, **LangChain**, and **Streamlit**. The tool allows users to input the URL of a company's careers page, automatically extracts job listings from that page, and generates personalized cold emails. These emails include relevant portfolio links sourced from a vector database, based on the specific job descriptions.
 
+![Interface](interface.png)
+
 ## 🛠️ Use Case
 Imagine a scenario:
 - **Adidas** needs an AI/ML Engineer and spends time and resources in the hiring process, onboarding, training, etc.
 - **TCS**, a service based company, can provide a dedicated software development engineer to Adidas.
 - The business development executive, **Chirag**, from TCS, will use this tool to generate a cold email to reach out to Adidas and offer their services.
 
-## 🧑‍💻 Architecture Diagram
+## 🧑‍💻 Architecture
 ![Architecture Diagram](architecture.png)
 
 ## 🚀 Features
